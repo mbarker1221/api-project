@@ -15,3 +15,8 @@ build an app for users to
 
 
 eventful API: Congratulations! Your new application key is c7nd5jGWK8tkcThz.
+
+http://api.eventful.com/
+https://www.songkick.com/developer
+https://developer.napster.com/
+http://developer.jambase.com/
