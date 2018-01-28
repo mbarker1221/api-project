@@ -12,3 +12,11 @@ build an app for users to
 8. stream a song from a selected artist
 9. search similar artists, events by music category
 10. see past events they have attended or past events by a selected artist
+
+
+eventful API: Congratulations! Your new application key is c7nd5jGWK8tkcThz.
+
+http://api.eventful.com/
+https://www.songkick.com/developer
+https://developer.napster.com/
+http://developer.jambase.com/
